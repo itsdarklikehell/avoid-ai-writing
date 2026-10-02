@@ -2,6 +2,12 @@
 
 # avoid-ai-writing
 
+
+[![CI](https://github.com/itsdarklikehell/avoid-ai-writing/actions/workflows/ci.yml/badge.svg)](https://github.com/itsdarklikehell/avoid-ai-writing/actions/workflows/ci.yml)
+[![License](https://img.shields.io/github/license/itsdarklikehell/avoid-ai-writing)](LICENSE)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
+
+
 Audit & rewrite content to remove AI writing patterns. A practical skill for any AI agent. Supports detect-only and edit-in-place modes, plus voice profiles.
 
 [![GitHub stars](https://img.shields.io/github/stars/conorbronsdon/avoid-ai-writing?style=social)](https://github.com/conorbronsdon/avoid-ai-writing/stargazers)
