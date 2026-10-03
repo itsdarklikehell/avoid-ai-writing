@@ -1,7 +1,8 @@
 # Release Notes
 
-## 2026-10-02
+## 2026-10-03
 
+* docs: update RELEASE_NOTES.md (0745290)
 * chore: add GitHub templates and workflows (a55bc82)
 * feat: add Gource visualization workflow + README video section (1457a9a)
 * fix(detector): stop flagging Cyrillic and Greek prose as homoglyph swaps (#352) (7cd166c)
@@ -21,4 +22,3 @@
 * Cover "I'd value your take" and "the call most leaders still won't make" (#325) (dc2c8c6)
 * docs: pin the Action example to v3.36.0 (#337) (d220d5c)
 * chore(release): prepare v3.36.0 (#336) (6135015)
-* docs(detector): count only cross-para-burstiness against the stylometric TODO (#335) (3514947)
